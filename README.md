@@ -42,5 +42,5 @@ Obtain PayPal API credentials (Client ID, Secret) from the PayPal Developer Dash
 Configure these credentials in the appsettings.json or a separate configuration file used for sensitive data.
 Implement PayPal SDK for payment processing in the relevant controllers and views.
 
-Contributors
+Contributors:
 Vishal Bhat - Software Engineer
