@@ -11,7 +11,7 @@
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {
-            "related": ".xml"
+            "related": ".xml" 
           }
         }
       },
