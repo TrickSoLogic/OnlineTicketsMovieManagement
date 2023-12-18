@@ -19,3 +19,4 @@ namespace OnlineTicketsMovieManagement.Data.ViewModels
         public string Password { get; set; }
     }
 }
+ 

@@ -8,3 +8,4 @@ namespace OnlineTicketsMovieManagement.Data.Services
         public CinemasService(AppDbContext context) : base(context) { }
     }
 }
+ 

@@ -1,4 +1,4 @@
-﻿using OnlineTicketsMovieManagement.Data;
+﻿ using OnlineTicketsMovieManagement.Data;
 using OnlineTicketsMovieManagement.Data.Base;
 using System;
 using System.Collections.Generic;

@@ -11,3 +11,4 @@ namespace OnlineTicketsMovieManagement.Data.Static
         public const string User = "User";
     }
 }
+ 

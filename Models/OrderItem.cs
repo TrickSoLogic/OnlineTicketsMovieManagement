@@ -19,3 +19,4 @@ namespace OnlineTicketsMovieManagement.Models
         public Order Order { get; set; }
     }
 }
+ 

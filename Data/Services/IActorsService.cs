@@ -12,3 +12,4 @@ namespace OnlineTicketsMovieManagement.Data.Services
         //Task DeleteAsync(int id);
     }
 }
+ 

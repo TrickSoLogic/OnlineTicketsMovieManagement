@@ -19,3 +19,4 @@ namespace OnlineTicketsMovieManagement.Data.ViewModels
         public List<Actor> Actors { get; set; }
     }
 }
+ 

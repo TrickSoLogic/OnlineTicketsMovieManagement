@@ -11,7 +11,7 @@ namespace OnlineTicketsMovieManagement.Models
 
         [Display(Name = "Profile Picture")]
         [Required(ErrorMessage = "Profile Picture is required")]
-        public string ProfilePictureURL { get; set; }
+        public string ProfilePictureURL { get; set; } 
 
 
         [Display(Name = "Name")]

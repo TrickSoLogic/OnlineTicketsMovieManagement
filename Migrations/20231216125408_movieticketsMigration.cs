@@ -19,7 +19,7 @@ namespace OnlineTicketsMovieManagement.Migrations
                     Bio = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
-                {
+                { 
                     table.PrimaryKey("PK_Actors", x => x.Id);
                 });
 

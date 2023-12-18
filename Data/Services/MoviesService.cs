@@ -23,7 +23,7 @@ namespace OnlineTicketsMovieManagement.Data.Services
                 Description = data.Description,
                 Price = data.Price,
                 ImageURL = data.ImageURL,
-                CinemaId = data.CinemaId,
+                CinemaId = data.CinemaId, 
                 StartDate = data.StartDate,
                 EndDate = data.EndDate,
                 MovieCategory = data.MovieCategory,

@@ -80,7 +80,7 @@ namespace OnlineTicketsMovieManagement.Controllers
             var newUser = new ApplicationUser()
             {
                 Surname = registerVM.Surname,
-                Name = registerVM.Name,
+                Name = registerVM.Name, 
                 Email = registerVM.EmailAddress,
                 UserName = registerVM.EmailAddress
             };

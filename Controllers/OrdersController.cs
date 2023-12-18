@@ -72,7 +72,7 @@ namespace OnlineTicketsMovieManagement.Controllers
             {
                 _shoppingCart.RemoveItemFromCart(item);
             }
-            return RedirectToAction(nameof(ShoppingCart));
+            return RedirectToAction(nameof(ShoppingCart)); 
         }
 
 

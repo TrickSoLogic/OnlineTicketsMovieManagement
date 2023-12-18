@@ -15,3 +15,4 @@ namespace OnlineTicketsMovieManagement.Data.ViewModels
         public double ShoppingCartTotal { get; set; }
     }
 }
+ 

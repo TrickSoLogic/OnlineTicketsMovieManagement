@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace OnlineTicketsMovieManagement.Models
 {
-    public class Cinema : IEntityBase
+    public class Cinema : IEntityBase 
     {
         [Key]
         public int Id { get; set; }

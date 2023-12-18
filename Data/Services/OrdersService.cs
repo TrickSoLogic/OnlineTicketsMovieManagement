@@ -18,7 +18,7 @@ namespace OnlineTicketsMovieManagement.Data.Services
         {
             var orders = await _context.Orders.Include(n => n.OrderItems).ThenInclude(n => n.Movie).Include(n => n.User).ToListAsync();
 
-            if (userRole != "Admin")
+            if (userRole != "Admin") 
                 orders = orders.Where(n => n.UserId == userId).ToList();
             
             return orders;

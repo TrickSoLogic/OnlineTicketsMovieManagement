@@ -20,7 +20,7 @@ namespace OnlineTicketsMovieManagement.Models
         public string Name { get; set; }
 
         [Display(Name = "Movie description")]
-        [Required(ErrorMessage = "Description is required")]
+        [Required(ErrorMessage = "Description is required")] 
         public string Description { get; set; }
 
         [Display(Name = "Price in $")]

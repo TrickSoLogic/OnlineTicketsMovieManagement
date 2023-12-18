@@ -13,3 +13,4 @@ namespace OnlineTicketsMovieManagement.Data.Services
         Task UpdateMovieAsync(NewMovieVM data);
     }
 }
+ 

@@ -18,7 +18,7 @@ namespace OnlineTicketsMovieManagement.Data.Services
         //   await _context.Actors.AddAsync(actor);
         //   await _context.SaveChangesAsync();
         //}
-
+         
         //public async Task DeleteAsync(int id)
         //{
         //    var result = await _context.Actors.FirstOrDefaultAsync(n => n.Id == id);

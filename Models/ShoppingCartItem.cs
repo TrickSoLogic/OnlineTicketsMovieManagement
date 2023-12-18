@@ -16,3 +16,4 @@ namespace OnlineTicketsMovieManagement.Models
         public string ShoppingCartId { get; set; }
     }
 }
+ 

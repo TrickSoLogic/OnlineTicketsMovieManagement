@@ -37,7 +37,7 @@ namespace OnlineTicketsMovieManagement.Controllers
 
         //GET: producers/create
         public IActionResult Create()
-        {
+        { 
             return View();
         }
 

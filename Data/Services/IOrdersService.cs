@@ -10,3 +10,4 @@ namespace OnlineTicketsMovieManagement.Data.Services
         Task<List<Order>> GetOrdersByUserIdAndRoleAsync(string userId, string userRole);
     }
 }
+ 

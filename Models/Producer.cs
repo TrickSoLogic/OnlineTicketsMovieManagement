@@ -23,7 +23,7 @@ namespace OnlineTicketsMovieManagement.Models
         [Required(ErrorMessage = "Surname is required")]
         [StringLength(25, MinimumLength = 1, ErrorMessage = "Surname must be between 1 and 25 chars")]
         public string Surname { get; set; }
-
+         
 
         [Display(Name = "Biography")]
         [Required(ErrorMessage = "Biography is required")]

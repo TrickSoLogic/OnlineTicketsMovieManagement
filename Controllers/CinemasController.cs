@@ -15,7 +15,7 @@ namespace OnlineTicketsMovieManagement.Controllers
         public CinemasController(ICinemasService service)
         {
             _service = service;
-        }
+        } 
 
         [AllowAnonymous]
         public async Task<IActionResult> Index()

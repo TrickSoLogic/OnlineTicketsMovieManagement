@@ -6,3 +6,4 @@ namespace OnlineTicketsMovieManagement.Data.Base
         int Id { get; set; }
     }
 }
+ 

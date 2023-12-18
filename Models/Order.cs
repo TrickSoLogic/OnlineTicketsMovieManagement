@@ -20,3 +20,4 @@ namespace OnlineTicketsMovieManagement.Models
         public List<OrderItem> OrderItems { get; set; }
     }
 }
+ 

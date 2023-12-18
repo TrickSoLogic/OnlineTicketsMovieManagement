@@ -372,7 +372,7 @@ namespace OnlineTicketsMovieManagement.Data
                 }
 
 
-                var appUserEmail = "user@movietickets.com";
+                var appUserEmail = "user@movietickets.com"; 
 
                 var appUser = await userManager.FindByEmailAsync(appUserEmail);
 

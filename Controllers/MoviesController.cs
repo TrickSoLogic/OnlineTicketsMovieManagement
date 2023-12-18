@@ -120,7 +120,7 @@ namespace OnlineTicketsMovieManagement.Controllers
 
             return View(response);
         }
-
+         
 
         [HttpPost]
         public async Task<IActionResult> Edit(int id, NewMovieVM movie)

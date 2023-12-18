@@ -20,7 +20,7 @@ namespace OnlineTicketsMovieManagement.Migrations
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
-                {
+                { 
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
